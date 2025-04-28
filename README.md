@@ -10,6 +10,7 @@ A Python-based tool to evaluate password strength based on structure, entropy, a
 - ✅ Calculates password **entropy** (security strength in bits).
 - ✅ Verifies if the password has been leaked in known data breaches.
 - ✅ Provides detailed feedback on missing elements.
+- ✅ Suggests strong, random passwords if the entered password is weak.
 
 ---
 
@@ -45,3 +46,6 @@ A Python-based tool to evaluate password strength based on structure, entropy, a
 Run the script:
 ```bash
 python password_checker.py
+
+Would you like a strong password suggestion? (yes/no): yes
+Here is a suggested strong password: Xr9@eL!2v#Pt

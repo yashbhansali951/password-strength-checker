@@ -56,7 +56,8 @@ Here is a suggested strong password: Xr9@eL!2v#Pt
 
 ---
 
-##**Output**
+## Output
+
 Enter a password to check: Example@123
 Password is strong.
 ✅ Password not found. Good to go!

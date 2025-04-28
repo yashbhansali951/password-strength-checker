@@ -1,6 +1,9 @@
 # Password Strength Checker 🔒
 
 A Python-based tool to evaluate password strength based on structure, entropy, and exposure to known breaches using the HaveIBeenPwned API.
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue?logo=python&logoColor=white)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+![Status](https://img.shields.io/badge/status-active-brightgreen)
 
 ---
 

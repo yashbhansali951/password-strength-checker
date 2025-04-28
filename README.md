@@ -52,3 +52,15 @@ python password_checker.py
 
 Would you like a strong password suggestion? (yes/no): yes
 Here is a suggested strong password: Xr9@eL!2v#Pt
+
+
+---
+
+##**Output**
+Enter a password to check: Example@123
+Password is strong.
+✅ Password not found. Good to go!
+Password entropy: 75.56 bits.
+
+Would you like a strong password suggestion? (yes/no): yes
+Suggested password: u8Q!z2#TqBv$wP1M
